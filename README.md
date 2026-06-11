@@ -5,7 +5,6 @@ This repository contains the code and supplementary materials for the manuscript
 ## Repository Structure
 * `/data`: Cleaned datasets and input files used for network analysis and molecular docking.
 * `/scripts`: Custom Python scripts used for statistical analysis and data parsing.
-* `/materials`: Configuration files for AutoDock Vina and other supplementary parameters.
 
 ## Prerequisites
 * Python 3 (Google Colab)
