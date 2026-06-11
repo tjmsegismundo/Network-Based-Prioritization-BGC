@@ -4,13 +4,13 @@ This repository contains the code and supplementary materials for the manuscript
 
 ## Repository Structure
 * `/data`: Cleaned datasets and input files used for network analysis and molecular docking.
-* `/scripts`: Custom R and Python scripts used for statistical analysis and data parsing.
+* `/scripts`: Custom Python scripts used for statistical analysis and data parsing.
 * `/materials`: Configuration files for AutoDock Vina and other supplementary parameters.
 
 ## Prerequisites
-* R (version x.x.x)
-* Python (version x.x.x)
-* [List any specific critical libraries, e.g., igraph, AutoDock Vina]
+* Python 3 (Google Colab)
+* Packages used:
+  * numpy, pandas, matplotlib, networkx, scipy, statsmodels, community, prettytable, collections, sklearn
 
 ## Usage
 [Provide 1-2 brief sentences on which script to run first, or mention that scripts can be run independently based on the analysis step.]
