@@ -12,4 +12,4 @@ This repository contains the code and supplementary materials for the manuscript
   * numpy, pandas, matplotlib, networkx, scipy, statsmodels, community, prettytable, collections, sklearn
 
 ## Usage
-[Provide 1-2 brief sentences on which script to run first, or mention that scripts can be run independently based on the analysis step.]
+The code was used under Google Colab. Before running, make sure to upload the data on a Google Drive folder first and allow the script to access your drive. The code is in .ipynb format, and the code can be run sequentially by block.
